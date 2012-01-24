@@ -8,7 +8,7 @@ Before you start, you need to install the following packages:
 
 - [redis-py](https://github.com/andymccurdy/redis-py)
 
-For the current release, <i>easy_install</i> or <i>pip</i> is not supported.
+For the current release of Redis-Model, installation using <i>easy_install</i> or <i>pip</i> is not supported.
 You can simply copy <b>redis_model</b> directory under your project directory. That's all!
 
 ## Tutorial
